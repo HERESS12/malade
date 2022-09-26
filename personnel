@@ -1,0 +1,81 @@
+<!DOTYPE html>
+<html>
+    <head>
+        <title>groupe1 </title>
+        <meta charset "url-8"/>
+    </head>
+    <BOdy>
+        <div>
+        <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="accueil.html">ACCUEIL</a>
+                </li>
+                <li>
+                    <a href="a propos.html">A PROPOS</a>
+                </li>
+                <li>
+                    <a href="travail.html">TRAVAIL</a>
+                </li>
+                <li>
+                    <a href="cv.html">CV</a>
+                </li>
+                <li>
+                    <a href="contact.htlm">CONTACT</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+</div>
+<main>
+    <form>
+        
+
+        <section>ACCUEIL</section>
+        <br/>
+        <br/>
+        <label for="accueil">accueil</label>
+        <input type="text"id"accueil"/>
+        <br/>
+        <br/>
+        <Section>A PROPOS</Section>
+        <br/>
+        <br/>
+        <label for="a propos">a propos</label>
+        <input type="text"id"a propos"/>
+        <br/>
+        <br/>
+        <Section>TRAVAIL</Section>
+        <br/>
+        <br/>
+<label for="travail">travail</label>
+<input type="text"id"travail"/>
+        <br/>
+        <br/>
+        <section>CV</section>
+        <br/>
+        <br/>
+<label for="cv">cv</label>
+<input type="text"id"CV"/>
+        <br/>
+        <br/>
+        <section>CONTACT</section>
+        <br/>
+        <br/>
+<label for="contact">contact</label>
+<input type="text"id"contact"/>
+    </form>
+<video controls src="controls">
+<source src="https://youtu.be/wDYlG0MiFhY"type ="video mp4"/>
+</video>
+    
+</main>
+<br/>
+<br/>
+<br/>
+<footer>
+Le group cite lat dior tel/33 827 31 83 -DAKAR / SENEGAL
+</footer>
+    </BOdy>
+</html>
